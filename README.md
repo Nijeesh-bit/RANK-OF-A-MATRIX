@@ -27,7 +27,5 @@ print(rank)
 <img width="594" alt="image" src="https://github.com/Nijeesh-bit/RANK-OF-A-MATRIX/assets/89188014/30435569-017f-41b7-9bb8-11ed17660a80">
 
 ## Result:
-Thus the rank for the matrix is successfully found using python program
-
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
